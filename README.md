@@ -1,0 +1,2 @@
+# wazuh
+wazuh-scripts
